@@ -13,7 +13,7 @@
             margin-bottom: 2%;
             background-size: 63%;
             background-position: center;
-            background-image: url("http://fooo.fr/images/planche.png");
+            background-image: url(image_pour_titre);
             background-repeat: no-repeat;
             background-position-y: 75%;
         }
